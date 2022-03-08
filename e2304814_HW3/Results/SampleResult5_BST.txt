@@ -1,0 +1,17 @@
+For processes5.txt:
+
+Binary Search Tree implementation
+
+2
+1
+4
+3
+5
+
+
+Total number of 6 Node has been visited to search
+Total number of 7 Node has been visited to insert
+
+
+Process returned 0 (0x0)   execution time : 0.019 s
+Press any key to continue.

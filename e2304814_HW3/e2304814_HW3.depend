@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1642625876 source:d:\okul\ee_4un_1i\441\e2304814_hw3\main.cpp
+	<iostream>
+	<fstream>
+	"header.h"
+
+1642378661 d:\okul\ee_4un_1i\441\e2304814_hw3\header.h
+

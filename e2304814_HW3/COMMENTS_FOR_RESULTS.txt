@@ -1,0 +1,15 @@
+It is the comments for results for EE441 HW3
+These comments are done by Berkay İPEK 2304814
+
+In general, we can say that storing and processing huge data in Binary Search Tree is visiting less node than the one in LinkedList. Main reason is that linkled list has a single pointing nodes. Therefore, insertion in linkedlist is much more harder than insertion in BST. (in terms of visited node numbers, not algorithmically) 
+
+However, using linkedlist has a advantage of access speed. Since there is in descending order in linkedlist, the node with most proirity can be selected directly (for each process just one node). On the other hand, in BST, deleting a node is not easy since it is like a spider web. You can not directly get the most left-positioned node. You should also regulate the pointer previous nodes.
+
+If you look the results for process1000.txt,
+
+	LinkedList => 1000 to search, 157747 to insert
+	BST => 8329 to search, 12011 to insert
+
+As you can understand from these results, altough linkedlist is much more efficient way to search nodes, in general BST has a huge advantage of total number of visited nodes.
+
+When it comes especially to store and delete nodes for huge amount of nodes, I'd prefer BST. However, it should be noted that if the time during searching is more important than one during all storing process, then I'd prefer using LinkedList. In other words, there is a trade-off like all software process has. 
