@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1637430988 source:c:\users\gunes\desktop\e2304814_hw1\main.cpp
+	<iostream>
+
+1640180112 source:d:\okul\ee 4ün 1i\441\e2304814_hw2\main.cpp
+	<iostream>
+	<fstream>
+	"header.h"
+
+1640177665 d:\okul\ee 4ün 1i\441\e2304814_hw2\header.h
+
