@@ -1,4 +1,4 @@
-# EE441-2020
+# EE441-2021
 This repo is consisting of three homeworks given in EE441 (Data Structures) at METU. 
 
 The first homework was forcing us to learn classes and dynamic memories with an basic UI.
